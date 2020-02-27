@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2020-02-27 14:10:51
+Update time:  2020-02-27 20:32:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **15   /   1252** problems
+I have solved **16   /   1252** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -24,7 +24,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)||[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0007-reverse-integer/reverse-integer.js)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
-|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)||[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
+|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0009-palindrome-number/palindrome-number.js)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
@@ -60,7 +60,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)||[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|||Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)||[:memo:](https://leetcode.com/articles/wildcard-matching/)|Hard|
-|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
+|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)||[:memo:](https://leetcode.com/articles/jump-game-ii/)|Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)||[:memo:](https://leetcode.com/articles/permutations/)|Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|||Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)||[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
@@ -963,7 +963,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1036|[rotting-oranges](https://leetcode.com/problems/rotting-oranges)||[:memo:](https://leetcode.com/articles/rotting-oranges/)|Easy|
 |1037|[minimum-number-of-k-consecutive-bit-flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips)||[:memo:](https://leetcode.com/articles/minimum-number-of-k-consecutive-bit-flips/)|Hard|
 |1038|[number-of-squareful-arrays](https://leetcode.com/problems/number-of-squareful-arrays)||[:memo:](https://leetcode.com/articles/number-of-squareful-arrays/)|Hard|
-|1039|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)|||Easy|
+|1039|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)||[:memo:](https://leetcode.com/articles/find-the-town-judge/)|Easy|
 |1040|[maximum-binary-tree-ii](https://leetcode.com/problems/maximum-binary-tree-ii)|||Medium|
 |1041|[available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook)|||Easy|
 |1042|[minimum-cost-to-merge-stones](https://leetcode.com/problems/minimum-cost-to-merge-stones)|||Hard|
