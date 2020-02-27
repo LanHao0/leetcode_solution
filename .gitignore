@@ -5,6 +5,17 @@ __pycache__/
 
 # C extensions
 *.so
+#only solutions
+.github
+demo
+.travis.yml
+config.cfg
+config.cfg.example
+leetcode_generate.py
+Pipfile
+Pipfile.lock
+README_leetcode_generate.md
+req.txt
 
 # Distribution / packaging
 .Python
