@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Javascript
-Update time:  2020-02-27 20:32:26
+Update time:  2020-02-29 20:21:18
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **16   /   1252** problems
+I have solved **19   /   1252** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -151,7 +151,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |133|[clone-graph](https://leetcode.com/problems/clone-graph)||[:memo:](https://leetcode.com/articles/clone-graph/)|Medium|
 |134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
-|136|[single-number](https://leetcode.com/problems/single-number)||[:memo:](https://leetcode.com/articles/single-number/)|Easy|
+|136|[single-number](https://leetcode.com/problems/single-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0136-single-number/single-number.js)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)||[:memo:](https://leetcode.com/articles/single-number-ii/)|Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
@@ -443,7 +443,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)||[:memo:](https://leetcode.com/articles/find-all-numbers-disappeared-in-an-array/)|Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
 |450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
-|451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|||Medium|
+|451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)||[:memo:](https://leetcode.com/articles/sort-characters-by-frequency/)|Medium|
 |452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)||[:memo:](https://leetcode.com/articles/minimum-number-of-arrows-to-burst-balloons/)|Medium|
 |453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|Easy|
 |454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|||Medium|
@@ -951,7 +951,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1024|[triples-with-bitwise-and-equal-to-zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||Hard|
 |1025|[minimum-cost-for-tickets](https://leetcode.com/problems/minimum-cost-for-tickets)||[:memo:](https://leetcode.com/articles/minimum-cost-for-tickets/)|Medium|
 |1026|[string-without-aaa-or-bbb](https://leetcode.com/problems/string-without-aaa-or-bbb)||[:memo:](https://leetcode.com/articles/string-without-aaa-or-bbb/)|Medium|
-|1027|[sum-of-even-numbers-after-queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)||[:memo:](https://leetcode.com/articles/sum-of-even-numbers-after-queries/)|Easy|
+|1027|[sum-of-even-numbers-after-queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/1027-sum-of-even-numbers-after-queries/sum-of-even-numbers-after-queries.js)|[:memo:](https://leetcode.com/articles/sum-of-even-numbers-after-queries/)|Easy|
 |1028|[interval-list-intersections](https://leetcode.com/problems/interval-list-intersections)||[:memo:](https://leetcode.com/articles/interval-list-intersections/)|Medium|
 |1029|[vertical-order-traversal-of-a-binary-tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/vertical-order-traversal-of-a-binary-tree/)|Medium|
 |1030|[smallest-string-starting-from-leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)||[:memo:](https://leetcode.com/articles/smallest-string-starting-from-leaf/)|Medium|
@@ -1164,7 +1164,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1282|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||Hard|
 |1287|[distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)|||Easy|
 |1288|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
-|1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
+|1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/1289-day-of-the-week/day-of-the-week.js)||Easy|
 |1290|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
 |1297|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|||Easy|
 |1298|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|
