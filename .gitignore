@@ -16,6 +16,7 @@ Pipfile
 Pipfile.lock
 README_leetcode_generate.md
 req.txt
+.idea
 
 # Distribution / packaging
 .Python

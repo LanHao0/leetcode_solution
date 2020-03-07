@@ -9,7 +9,7 @@ progress: 1.83%
 21 Easy
 
 | id | Problem | My Answer | Difficulty |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0001-two-sum/two-sum.js)|Easy|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.js)|Hard|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0007-reverse-integer/reverse-integer.js)|Easy|
