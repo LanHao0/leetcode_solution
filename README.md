@@ -1,12 +1,12 @@
 # :pencil2: Leetcode Solutions with Java, Javascript 
-Update time:  2020-03-07 17:47:16 <br>
-I have solved **23   /   1256** problems <br>
-progress: 1.83% <br>
+Update time:  2020-05-05 18:48:23 <br>
+I have solved **29   /   1318** problems <br>
+progress: 2.20% <br>
 
 Solved:
-        1 Hard
-        1 Medium
-        21 Easy
+        2 Hard
+        4 Medium
+        23 Easy
 
 | Problem | My Answer | Difficulty | id |
 |:---:|:---:|:---:|:---:|
@@ -14,8 +14,14 @@ Solved:
 |[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.js)|Hard|4|
 |[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0007-reverse-integer/reverse-integer.js)|Easy|7|
 |[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0009-palindrome-number/palindrome-number.js)|Easy|9|
+|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0021-merge-two-sorted-lists/merge-two-sorted-lists.js)|Easy|21|
+|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0023-merge-k-sorted-lists/merge-k-sorted-lists.js)|Hard|23|
 |[plus-one](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0066-plus-one/plus-one.js)|Easy|66|
+|[sort-colors](https://leetcode.com/problems/sort-colors)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0075-sort-colors/sort-colors.js)|Medium|75|
+|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0088-merge-sorted-array/merge-sorted-array.js)|Easy|88|
 |[single-number](https://leetcode.com/problems/single-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0136-single-number/single-number.js)|Easy|136|
+|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0147-insertion-sort-list/insertion-sort-list.js)|Medium|147|
+|[sort-list](https://leetcode.com/problems/sort-list)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0148-sort-list/sort-list.js)|Medium|148|
 |[number-complement](https://leetcode.com/problems/number-complement)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0476-number-complement/number-complement.js)|Easy|476|
 |[robot-return-to-origin](https://leetcode.com/problems/robot-return-to-origin)|[Java](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0657-robot-return-to-origin/robot-return-to-origin.java)|Easy|657|
 |[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0742-to-lower-case/to-lower-case.js)|Easy|742|
