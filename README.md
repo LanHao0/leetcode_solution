@@ -1,12 +1,12 @@
 # :pencil2: Leetcode Solutions with Java, Javascript 
-Update time:  2020-05-05 18:48:23 <br>
-I have solved **29   /   1318** problems <br>
-progress: 2.20% <br>
+Update time:  2020-05-06 21:37:08 <br>
+I have solved **37   /   1318** problems <br>
+progress: 2.81% <br>
 
 Solved:
-        2 Hard
-        4 Medium
-        23 Easy
+        3 Hard
+        7 Medium
+        27 Easy
 
 | Problem | My Answer | Difficulty | id |
 |:---:|:---:|:---:|:---:|
@@ -16,12 +16,20 @@ Solved:
 |[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0009-palindrome-number/palindrome-number.js)|Easy|9|
 |[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0021-merge-two-sorted-lists/merge-two-sorted-lists.js)|Easy|21|
 |[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0023-merge-k-sorted-lists/merge-k-sorted-lists.js)|Hard|23|
+|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0024-swap-nodes-in-pairs/swap-nodes-in-pairs.js)|Medium|24|
+|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0025-reverse-nodes-in-k-group/reverse-nodes-in-k-group.js)|Hard|25|
+|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.js)|Easy|26|
+|[remove-element](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0027-remove-element/remove-element.js)|Easy|27|
+|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0029-divide-two-integers/divide-two-integers.js)|Medium|29|
 |[plus-one](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0066-plus-one/plus-one.js)|Easy|66|
 |[sort-colors](https://leetcode.com/problems/sort-colors)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0075-sort-colors/sort-colors.js)|Medium|75|
+|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0080-remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.js)|Medium|80|
 |[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0088-merge-sorted-array/merge-sorted-array.js)|Easy|88|
 |[single-number](https://leetcode.com/problems/single-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0136-single-number/single-number.js)|Easy|136|
 |[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0147-insertion-sort-list/insertion-sort-list.js)|Medium|147|
 |[sort-list](https://leetcode.com/problems/sort-list)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0148-sort-list/sort-list.js)|Medium|148|
+|[count-primes](https://leetcode.com/problems/count-primes)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0204-count-primes/count-primes.js)|Easy|204|
+|[ugly-number](https://leetcode.com/problems/ugly-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0263-ugly-number/ugly-number.js)|Easy|263|
 |[number-complement](https://leetcode.com/problems/number-complement)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0476-number-complement/number-complement.js)|Easy|476|
 |[robot-return-to-origin](https://leetcode.com/problems/robot-return-to-origin)|[Java](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0657-robot-return-to-origin/robot-return-to-origin.java)|Easy|657|
 |[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0742-to-lower-case/to-lower-case.js)|Easy|742|
