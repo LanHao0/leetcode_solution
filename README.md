@@ -1,12 +1,12 @@
 # :pencil2: Leetcode Solutions with Java, Javascript 
-Update time:  2020-10-26 22:42:44 <br>
-I have solved **38   /   1487** problems <br>
-progress: 2.56% <br>
+Update time:  2020-11-27 03:36:47 <br>
+I have solved **40   /   1516** problems <br>
+progress: 2.64% <br>
 
 Solved:
         3 Hard
         7 Medium
-        28 Easy
+        30 Easy
 
 | Problem | My Answer | Difficulty | id |
 |:---:|:---:|:---:|:---:|
@@ -26,10 +26,12 @@ Solved:
 |[sort-colors](https://leetcode.com/problems/sort-colors)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0075-sort-colors/sort-colors.js)|Medium|75|
 |[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0080-remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.js)|Medium|80|
 |[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0088-merge-sorted-array/merge-sorted-array.js)|Easy|88|
+|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.js)|Easy|121|
 |[single-number](https://leetcode.com/problems/single-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0136-single-number/single-number.js)|Easy|136|
 |[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0147-insertion-sort-list/insertion-sort-list.js)|Medium|147|
 |[sort-list](https://leetcode.com/problems/sort-list)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0148-sort-list/sort-list.js)|Medium|148|
 |[count-primes](https://leetcode.com/problems/count-primes)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0204-count-primes/count-primes.js)|Easy|204|
+|[power-of-two](https://leetcode.com/problems/power-of-two)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0231-power-of-two/power-of-two.js)|Easy|231|
 |[ugly-number](https://leetcode.com/problems/ugly-number)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0263-ugly-number/ugly-number.js)|Easy|263|
 |[number-complement](https://leetcode.com/problems/number-complement)|[Javascript](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0476-number-complement/number-complement.js)|Easy|476|
 |[robot-return-to-origin](https://leetcode.com/problems/robot-return-to-origin)|[Java](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/0657-robot-return-to-origin/robot-return-to-origin.java)|Easy|657|
@@ -48,4 +50,4 @@ Solved:
 |[number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|[Java](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/1444-number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.java)|Easy|1444|
 |[maximum-69-number](https://leetcode.com/problems/maximum-69-number)|[Java](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/1448-maximum-69-number/maximum-69-number.java)|Easy|1448|
 |[count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|[Java](https://github.com/LanHao0/leetcode_solution/blob/master/solutions/1476-count-negative-numbers-in-a-sorted-matrix/count-negative-numbers-in-a-sorted-matrix.java)|Easy|1476|
-<br>Auto created by [leetcode_generate](https://github.com/LanHao0/leetcode_solution)<br>If you want to use this tool please follow this [Usage Guide](https://github.com/LanHao0/leetcode_solution/blob/master/README_leetcode_generate.md)<br>If you have any question, please give me an [issue](https://github.com/LanHao0/leetcode_solution/issues).
+<br>Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)<br>If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)<br>If you have any question, please give me an [issue](https://github.com/LanHao0/leetcode_solution/issues).
